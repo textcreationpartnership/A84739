@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The uses of a quadrant fitted for daily practise. Both with the ordinary lines for the hour and azimuth, and other things of the suns course in reference to the horizon. And also with new lines serving to the fore-mentioned and other purposes more accurately. As namely to find the hour of the night by the stars; to describe the most usuall sorts of dials; to perform all common things in mensuration. And many other requisite conclusions. Performed in an accurate, easie, and delightfull way. By Sam: Foster, Professor of Astronomie in Gresham Colledg. Published by A:T.</title>
+            <author>Foster, Samuel, d. 1652.</author>
+         </titleStmt>
+         <extent>Approx. 72 KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84739</idno><idno type="EEBO-CITATION">99867886</idno>
+  <idno type="VID">169725</idno>
+  <idno type="EEBO-PROQUEST">2240932040</idno>
+  
+            <idno type="STC">Wing F1636</idno>
+            <idno type="STC">Thomason E1294_3</idno>
+            <idno type="STC">ESTC R208972</idno>
+            <idno type="PROQUEST">99867886</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867886e"/>
+            <note>(EEBO-TCP ; phase 2, no. A84739)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169725)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 174:E1294[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The uses of a quadrant fitted for daily practise. Both with the ordinary lines for the hour and azimuth, and other things of the suns course in reference to the horizon. And also with new lines serving to the fore-mentioned and other purposes more accurately. As namely to find the hour of the night by the stars; to describe the most usuall sorts of dials; to perform all common things in mensuration. And many other requisite conclusions. Performed in an accurate, easie, and delightfull way. By Sam: Foster, Professor of Astronomie in Gresham Colledg. Published by A:T.</title>
+                  <author>Foster, Samuel, d. 1652.</author>
+               </titleStmt>
+               <extent>[8], 80 [i.e. 60], [2] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Eglesfeild, and are to be sold at the Marygold in Pauls-Church-Yard; and by A: Thompson in Hosier-lane, neer Smithfield,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 60 is misnumbered "80".</note>
+                  <note>Annotation on Thomason copy: "Nou. 24.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Mathematical instruments --  Early works to 1800.</term>
+               <term type="topical_term">Astronomy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169725:1"/>
+            <p>The uses of a QUADRANT FITTED For daily practise.</p>
+            <p>Both with the ordinary lines for the <hi>Hour</hi> and <hi>Azimuth,</hi> and other things of the Suns course in reference to the <hi>Horizon.</hi>
+            </p>
+            <p>And also with new Lines serving to the fore-mentioned and other pur<g ref="char:EOLhyphen"/>poses more accurately.</p>
+            <p>
+               <hi>As namely,</hi>
+            </p>
+            <p>To find the hour of the Night by the Stars;</p>
+            <p>To describe the most usuall sorts of Dials;</p>
+            <p>To perform all common things in Mensuration.</p>
+            <p>And many other requisite conclusions.</p>
+            <p>Performed <hi>In an accurate, easie, and delightfull way.</hi>
+            </p>
+            <p>By <hi>SAM. FOSTER,</hi> Professor of Astronomie in <hi>Gresham Colledg.</hi>
+            </p>
+            <p>PUBLISHED by A: T.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Francis Eglerfeild,</hi> and are to be sold at the Marygold in <hi>Pauls-Church-Yard;</hi> and by <hi>A: Thompson</hi> in <hi>Hosier-lane,</hi> neer <hi>Smithfield.</hi> 1652.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:169725:2"/>
+            <pb facs="tcp:169725:2"/>
+            <head>AN Advertisement to the READER.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Oncerning the structure and use of this Quadrant, the Reader may understand thus much. The Houre and Azimuth lines are like those that are common<g ref="char:EOLhyphen"/>ly seen upon other Quadrants, and the uses are (most part) the same, and there<g ref="char:EOLhyphen"/>fore are lightly passed over; as is seen in the se<g ref="char:EOLhyphen"/>cond Proposition. But the Distance of the Equi<g ref="char:EOLhyphen"/>noctiall and Tropiques is here shortned, that so more room might be gained above, for the better placing, and the more accurate dividing of the Equinoctials; which in small Instruments may receive each second degree, in larger each single degree or more.</p>
+            <p>If it be required to make these yet larger,
+<pb facs="tcp:169725:3"/> then may the fore-mentioned Azimuth lines be left quite out. For the use of them, as they are here described, is of small moment, very hardly, making good the Suns coast to one entire degree: and for serious practise, the new Lines added are farre more sufficient. If this be granted, then may the Equinoctials stand belowe, by which means they shall become large enough, even in small Instruments. Especially this may most fair<g ref="char:EOLhyphen"/>ly be done, if the hour-lines be reverted by chan<g ref="char:EOLhyphen"/>ging the places of the Equinoctiall and Tro<g ref="char:EOLhyphen"/>piques; that is, if the Equinoctiall altitudes be inserted belowe on the circle neerest the limb, and the Tropicall altitudes above in the circle neerest to the center. Thus becoming more large, they will supply all intended purposes very well. There is no Scheme given of this change now mentioned, nor of the vulgar Hours and Azi<g ref="char:EOLhyphen"/>muths, because those lines are well enough known alreadie, and this mutation is easie to be under<g ref="char:EOLhyphen"/>stood. If other Quadrants were thought com<g ref="char:EOLhyphen"/>pleat in use, this will be found much more copi<g ref="char:EOLhyphen"/>ous. For it servetb not onely to finde the hour of the day by the Sun: of the night by the Starrs, and what else belongs to their Risings, Settings, Amplitudes, &amp;c. but is very well fitted also to describe all the most usual sorts of standing Dyals;
+<pb facs="tcp:169725:3"/> that is, all that are upright, or else reclining or inclining to be full East and West: which two sorts will furnish many kinds of such bo<g ref="char:EOLhyphen"/>dies, as are regularly formed. These are here performed by very easie and familiar wayes of working. The nocturnall for the hour by the Stars, is more expedient in this then in other Quadrants. For in judging of time only by the Appulse of the Stars to the Meridian, and finding that Meridian too onely by a rude con<g ref="char:EOLhyphen"/>jecture from the North Starr, an errour of a quarter or half an hour is easily unawares com<g ref="char:EOLhyphen"/>mitted. This cannot be so here if any ordina<g ref="char:EOLhyphen"/>ry care be had in taking the Starrs altitude. For this purpose, there are twelve select Stars inserted, all of them of North Declination, ly<g ref="char:EOLhyphen"/>ing between the Equinoctiall and tropique of <hi>Cancer;</hi> and in such difference of right as<g ref="char:EOLhyphen"/>censions, as that one or other of them will be alwayes in such convenient place of the Heavens, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> from whence the hour may very fully be col<g ref="char:EOLhyphen"/>lected every night throughout the whole year. Since therefore they are so convenient for use, there would be a little the more diligence used to come to the knowledg of them in the Hea<g ref="char:EOLhyphen"/>vens, that due observations may be made whensoever any of them shall be in view. If
+<pb facs="tcp:169725:4"/> any desire that other starrs (such as are better known to them) should be inserted, they may have their desire easily fulfilled. Onely they must take care, that the starrs be such as fall between the Tropiques and the Heavens, and chiefly between the Equin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctial and North Tro<g ref="char:EOLhyphen"/>pique; because such stars are longest in view, and their hours best found—The Propositions that are here set down might have been increased both in number and in variety of performance, if pro<g ref="char:EOLhyphen"/>lixity had been affected; but such of them, and such wayes of effecting them, are here pitched up<g ref="char:EOLhyphen"/>on as seemed most conducible for daily use, and to make the Treatise, rather materiall▪ then burthensome. And for the same reason it is, that the severall lines upon the Quadrant, are denoted by letters only; that by such bre<g ref="char:EOLhyphen"/>vity, all unnecessary circumlocution might be taken off, which, by imposition of names to each of them, could not so easily have been avoided. If other Quadrants have hereto<g ref="char:EOLhyphen"/>fore found good acceptance, because they were of some good use, I should in reason expect a greater proportion of thanks from the ingenious for making publique this larger Improvement of this Instrument But be that as the <hi>READER</hi> listeth.</p>
+            <pb facs="tcp:169725:4"/>
+            <p> These additionall lines were invented, and the uses written at the request of a Friend, and are intended as an addition or Ap<g ref="char:EOLhyphen"/>pendix unto Master <hi>Gunters</hi> Quadrant, it being most proper for the same, onely some few are published alone in this volumn, for the private satisfaction of some Friends, of the Judicious Author Mr. <hi>SAMUEL FOSTER.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Thine,</hi> A: Thompson.</signed>
+            </closer>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:169725:5"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of a quadrant</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:169725:5"/>
+            <head>The uses of the QVADRANT.</head>
+            <div n="1" type="part">
+               <head>I. <hi>To finde the Suns Declination.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">L</seg>Ay the threed to the day of the moneth upon the back side of the Quadrant, and it will shew you the Declination of the Sun in that unequall scale, which is numbred with twice 23½. If your day fall in the upper scale of moneths (which may be cal<g ref="char:EOLhyphen"/>led the Summer scale) then is the declination North: if it fall in the lower (or Winter) scale, the declination is South from the Equi<g ref="char:EOLhyphen"/>noctiall.</p>
+               <p>Thus upon <hi>Aprill</hi> 20, you shall find the sun to decline 15 <hi>gr.</hi> northward: and <hi>January</hi> 30, it declines about 14½ <hi>gr.</hi> southward.</p>
+               <p>¶ The contrary work is easie: by assign<g ref="char:EOLhyphen"/>ing the suns declination, to know on what day of the moneth the same shall be. For the
+<pb n="2" facs="tcp:169725:6"/> threed may be laid to the declination in two places; in both which it will crosse the two halfe years, shewing two severall dayes on which the sun shall have so much declination North; and two more dayes on which it shall have that declination Southward. It will be easie to distinguish which of these days serves your purpose, by the two seasons of the year unto which the two scales of moneths doe answer.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II. <hi>To rectifie the Bead for observation of Houre or Azimuth: and to perform those things that are done by the usuall lines upon the Quadrant.</hi>
+               </head>
+               <p>HAving found the Suns declination for your day, you must count the same upon the double equall scale which is on the foreside of the Quadrant, namely, from the middle of it, towards the right hand, if the declination be North, or towards the left hand if it be South. The threed being laid thereto, you must move the bead, til it fal justly upon the houre of 12, so shall it be set right for the intended uses of that day. As,</p>
+               <p n="1">1 <hi>For the</hi> HOURE. If you observe the suns
+<pb n="3" facs="tcp:169725:6"/> altitude (by letting the Sun-beames to shine through the sights, and the Plummet to hang at full liberty, close to the plane of your qua<g ref="char:EOLhyphen"/>drant) the bead will shew the houre, if you have respect to the time of the yeer. That is; If the suns declination be North, the bead shewes the time of the day among the Sum<g ref="char:EOLhyphen"/>mer houres, those which spread from the Equinoctiall towards the right hand. If the Sun decline South, the time must be accounted in the crosse lines which are the winter hours. And in this observation you shall see the threed to cut (in the equall limbe) the Suns altitude above the Horizon.—Thus at <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> if the ☉ decline 15 <hi>gr.</hi> Northward, and the altitude were 95/12 <hi>gr.</hi> the hour would be about a quarter before 6 in the morning: Or a quarter past 6 in the evening. But if the Sun had the same declination Southward, and the same altitude also, then would the time be half an hour past 8, in the morning; Or halfe an hour past 3, in the evening. The former of these times is shewed by the bead among the summer-houres; the latter among the winter-hours.</p>
+               <p n="2">2 <hi>For the</hi> AZIMUTH. If the suns altitude be numbred the contrary way in the equall limbe, and the threed be laid thereto, the bead
+<pb n="4" facs="tcp:169725:7"/> will then shew the <hi>Azimuth</hi> of the Sun if you account it according to the time of the yeer: That is, among the Summer <hi>Azimuth;</hi> when the sun hath North declination; and among the Winter Azimuths when the sun declines South. The Summer Azimuths, are those that spread from the Equinoctiall towards the left hand: The other crossing them, are the Win<g ref="char:EOLhyphen"/>ter Azimuths.—Thus if the suns declination were 8 <hi>gr.</hi> Northward, and the altitude 18 <hi>gr.</hi> the Azimuth would be 80 <hi>gr.</hi> from the South. But if the sun had 8 <hi>gr.</hi> of South declination, and 18 <hi>gr.</hi> altitude, the Azimuth would be 50 <hi>gr.</hi> from the South, here at <hi>London.</hi> This way may serve for grosse workes, when the Azimuth is required onely within one or two whole degrees. You shall finde it done more accurately and for better purposes in the thirteenth follow<g ref="char:EOLhyphen"/>ing.</p>
+               <p n="3">3 <hi>For the</hi> ASCENSIONALL <hi>difference.</hi> The bead being (rectified as before) and ap<g ref="char:EOLhyphen"/>plied to the left side of the quadrant, gives the Ascensionall difference, or the time of sun-ri<g ref="char:EOLhyphen"/>sing &amp; seting before or after 6 a clock, among those hours and quarters which intersect each other upon the same left side of the quadrant, if you account them agreeable to the time of
+<pb n="5" facs="tcp:169725:7"/> the yeer. And from the bead to the line of 12 rightly taken according to your time of Sum<g ref="char:EOLhyphen"/>mer or Winter, gives the semidiurnall Ark of the sun, or half the dayes lenght.—As also, from the bead to the other line of 12, which serves for the contrary time of the yeer, gives the seminocturall Ark, or half the length of the night.—Thus if the suns declina<g ref="char:EOLhyphen"/>tion were 14⅓ <hi>gr.</hi> the Ascensionall difference would be 1 hour and ¼ of an houre. And if the said declination were North, then the sun riseth that day ¼ of an hour before 5; setteth ¼ after 7: The semidiurnall arke (from the bead to the Summer 12) is 7¼ hours. The seminocturall arke (from the bead to the Winter 12 is 4¾ houres. These doubled, make the day 14½ hours long, The night 9½ long.</p>
+               <p n="4">4 <hi>For the</hi> AMPLITUDE. The bead ap<g ref="char:EOLhyphen"/>plyed to the right side of the quadrant gives the <hi>Amplitude</hi> of sun rising and setting, in all varieties. Namely; From the bead to that South Azimuth which is proper to the season of the yeer, is the <hi>Amplitude</hi> from south: as also to the contrary south Azimuth, gives the <hi>Amplitude</hi> from North: shewing how many degrees of the Horizon the sun riseth and set<g ref="char:EOLhyphen"/>teth any day from the just South or North. So from the bead to the East and West Azi<g ref="char:EOLhyphen"/>muth
+<pb n="6" facs="tcp:169725:8"/> (which is the ninth Azimuth) gives the Amplitude from East or West.—Thus if the ☉ decline 14⅓ <hi>gr.</hi> The Amplitude is here, 23½ <hi>gr.</hi> almost. If the declination be North, then is this Amplitude from East and West toward the North, 23½ degrees. The Amplitude from the north it self is then 66½ <hi>gr.</hi> From the south point of the Horizon it is 113½ <hi>gr.</hi> You may easily (in such manner) ac<g ref="char:EOLhyphen"/>count it for South declinations of the ☉.</p>
+            </div>
+            <div type="part">
+               <head>V. <hi>To finde when Twilight begins in the Morn<g ref="char:EOLhyphen"/>ing and ends at Evening: which moments are the two utmost termes of darke night.</hi>
+               </head>
+               <p>AFter the bead is rectified for your day, The threed laid to 18 <hi>gr.</hi> in the equall limbe, will shew the houre or part required. Onely here remember to take your hour a<g ref="char:EOLhyphen"/>right. Namely, in winter time, look among the Summer houres, where it is that the bead rest<g ref="char:EOLhyphen"/>eth, for that is the Morning or Evening hour of Twilight. So in summer time you must look among the winter hours.—Thus when the ☉ declines 111/10 <hi>gr.</hi> Southward, the twi<g ref="char:EOLhyphen"/>light begins at <hi>London</hi> at 5 in the morning, and ends at 7 a clocke at night, as the bead
+<pb n="7" facs="tcp:169725:8"/> shewes among the summer houres. But if that declination were North, the twilight would begin at ¼ of an hour before 3 in the morning, and ende ¼ after 9 at night.—The suns depres<g ref="char:EOLhyphen"/>sion 18 <hi>gr.</hi> under the Horizon, is the usuall terme whereon to begin and end the twilight. You may as well do this to any degree of light, as to 12, or 13 degrees depression: At which time in the morning all things begin to be visible, and the light to be of some use. As if the ☉ decline 3½ <hi>gr.</hi> Southward, if you set the bead thereto, and then lay the threed at 12 <hi>gr.</hi> in the equall limbe, you shall see the bead (among the summer houres,) fall upon 5, in the morning and 7, at right, So that at 5, and till 7, there is a reasonable degree of light. Or if in summer the ☉ had declined 7½ <hi>gr.</hi> Northward; the said degree of light would begin at 4, in the morning, and end at 8 in the evening.—Neer to the longest days you shall finde no twilight at all according to 18 degrees depression of ☉ under the Hori<g ref="char:EOLhyphen"/>zon: for then the bead will fall be the Winter 12 a clock-line.</p>
+               <p>¶ These are the chief uses of the hour and Azimuth lines as they are here, and in all Quadrants commonly inserted. There are other things concerning the suns place in
+<pb n="8" facs="tcp:169725:9"/> the Ecliptick: The suns declination: The suns right ascension: Namely,—How by having any one of these, to finde out the rest—These are here omitted as matters onely of curiosi<g ref="char:EOLhyphen"/>ty, being of no further use, in this instrument, then that they may be known. Yet if any should desire them, they may have a Scale of the 12; signes inscribed on the back side; by help of which, the fore-named requisites may be attained. The particulars that follow are most aimed at, (as being more of them, and more accurate) and therefore the precedent things are thus briefly passed over.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III. <hi>To finde the Suns Ascensionall difference, &amp;c.</hi>
+               </head>
+               <p>COunt the declination in the equall limbe from F. to K. The threed there laid, gives BS the Ascensionall diffe<g ref="char:EOLhyphen"/>ence.—The said ascensional difference gives the times of sun rising and fetting be<g ref="char:EOLhyphen"/>fore and after 6: with the lengths of Day and Night.—The same may be done for all stars whose declinations are known.</p>
+               <p>¶ So by having the ascensionall difference,
+<pb n="9" facs="tcp:169725:9"/> you may finde the suns declination thereto belonging.</p>
+               <p>Here at <hi>London,</hi> if the declination be 20 <hi>gr.</hi> the ascensionall difference is 27 <hi>gr.</hi> 14 min. That is, 1 houre, 49 minutes. And if this declination be North, the sun riseth 1 hour 49 min. before 6, and setteth so much after 6. That is, it riseth 11 min. after 4 in the morn<g ref="char:EOLhyphen"/>ing; and setteth 49 min. after 7 a clock at night. And the time of setting being doubled, gives 15 hours, 38 min. for the dayes length. The time of rising being doubled, gives 8 hours, 22 min. for the length of night. But if the declination had been South, the sun should rise 1 hour, 49 min. after 6 (that is, at 7, 49 min.) And should set 1 hour, 49 min. before 6 (that is, at 4 and 11 min.) and the day would be 8 hours, 22 min. long; the night 15 hours, 38 min.</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV. <hi>To finde the suns Amplitude, &amp;c.</hi>
+               </head>
+               <p>COunt the declination in the equall limbe from G to H. The threed there laid, gives C R for the Amplitude.—The same may be done for stars whose declinations are known.</p>
+               <pb n="10" facs="tcp:169725:10"/>
+               <p> ¶ So by having the Amplitude, you may finde the declination. For if the Amplitude be counted from C to R, the threed laid at R, gives the declination G H.</p>
+               <p>At <hi>London,</hi> if the declination be 20 <hi>gr.</hi> the Amplitude is 33 <hi>gr.</hi> 20 min. from the East and West points of the Horizon.</p>
+            </div>
+            <div n="5" type="part">
+               <head>V. <hi>Having the declination of any upright plane, to finde the elevation of the style, &amp;c.</hi>
+               </head>
+               <p>LAy the threed to the planes declination, counted from D to R: So will G H be the Elevation.</p>
+               <p>¶ So by having the Elevation G H, you may finde D R the declination.</p>
+               <p>If an upright plane (here) decline 20 <hi>gr.</hi> the styles elevation will be 35 <hi>gr.</hi> 48 minutes</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI. <hi>To finde the Deflexion, &amp;c.</hi>
+               </head>
+               <p>COunt the declination from B to S. The threed there laid, gives F K the Deflex<g ref="char:EOLhyphen"/>ion.</p>
+               <p>¶ So by having F K the Deflexion, you may finde B S, the planes declination.</p>
+               <pb n="11" facs="tcp:169725:10"/>
+               <p> If A plane declining 20 <hi>gr.</hi> the Deflex<g ref="char:EOLhyphen"/>ion is 15 <hi>gr.</hi> 13 min.</p>
+            </div>
+            <div n="7" type="part">
+               <head>VII. <hi>To finde the planes Difference of longitude, &amp;c.</hi>
+               </head>
+               <list>
+                  <item>1 COunt the Elevation from F to K. E S is the difference of longitude.</item>
+                  <item>2 Count the Deflexion from G to H. C R is the difference of longitude.</item>
+               </list>
+               <p>¶ By the contrary works, having the difference of longitude, you may finde the Elevation and Deflexion.</p>
+               <p>A plane declining 20 <hi>gr.</hi> hath 25 <hi>gr.</hi> diff. of longitude.</p>
+            </div>
+            <div n="8" type="part">
+               <head>VIII. <hi>To make an Horizontall Diall.</hi>
+               </head>
+               <p n="1">1. COunt the houre from E to S: The threed laid at S, gives F K. Then count G H equall to F K: The threed there laid gives D R, the space of that hour from 12.</p>
+               <p n="2">2. Count the hour from C to R, and by help of the threed you shall have G H. Then count FK equall to GH: the threed laid at R, gives B S, for the space of that hour from 12.</p>
+               <p n="3">
+                  <pb n="12" facs="tcp:169725:11"/> 3 With a paire of compasses, take the hour from C to R, and set it from B to S. B S is the space or angle of that houre from twelve.</p>
+               <p n="4">4 Take with your compasses the hour from E to S, and set it from D to R. So the number D R shews how many degrees that houre must be from 12.</p>
+               <p>By all these waies (here at <hi>London)</hi> the third hour will be found about 38 <hi>gr.</hi> from 12. The rest will be in like manner found according to their true quantities.</p>
+            </div>
+            <div n="9" type="part">
+               <head>IX. <hi>To finde what Angle any hour-circle ma<g ref="char:EOLhyphen"/>keth with the Horizon; or any Azimuth makes with the Equinoctiall.</hi>
+               </head>
+               <p>LEt the number of the hour-circle (or <hi>Azimuth)</hi> from south, be counted from C to R the threed laid at R, will cut the equall limbe in H. And F H will be the an<g ref="char:EOLhyphen"/>gle required.</p>
+               <p>¶ By the angle know, it will be easie by
+<pb n="13" facs="tcp:169725:11"/> the contrary worke, to finde the houre (or Azimuth) to which that angle be<g ref="char:EOLhyphen"/>longeth.</p>
+               <p>The third houre (or 45 Azimuth) makes with the Horizon (or with the Equinoctiall) an angle of 63 <hi>gr.</hi> 53 <hi>minutes</hi> here at <hi>Lon<g ref="char:EOLhyphen"/>don.</hi>
+               </p>
+            </div>
+            <div n="10" type="part">
+               <head>X. <hi>To finde what arke of any houre-circle is in<g ref="char:EOLhyphen"/>tercepted betweene the Equinoctiaell (or any Parallel) and the Horizon.</hi>
+               </head>
+               <p>COunt the number of the houre-circle from South, from E to S: or if it be a<g ref="char:EOLhyphen"/>bove 90, from E to B, and back again to S. So F K in the equall limbe, will be the arke required, betweene the Equinoctiall and Ho<g ref="char:EOLhyphen"/>rizon.</p>
+               <p>The arke intercepted between any parallel and the Horizon, may hence also be found.—If the Declination of the parallel be North, and the houre be between 12 and 6, Add the declination to the arke found by the former worke: In other houres beyond 6, sub<g ref="char:EOLhyphen"/>tract the former ark out of the declination, the result will be the ark required. Upon the hour
+<pb n="14" facs="tcp:169725:12"/> of 6 it self, the declination of the parallel is the ark intercepted.—If the declination be South, Subtract it out of the arke found before, (namely, the ark intercepted between the Equinoctiall and Horizon) what remains is the ark intercepted between that parallel and the Horizon.</p>
+               <p>Thus at <hi>London.</hi> The ark of the 3 hour inter<g ref="char:EOLhyphen"/>cepted between the Equinoctiall and Hori<g ref="char:EOLhyphen"/>zon, is 29 <hi>gr.</hi> 21 min.—And if the decli<g ref="char:EOLhyphen"/>nation be 18 <hi>gr.</hi> North, the arke intercepted between that parallel and the horizon, is 47<hi>gr.</hi> 21 min.—If the parallel be 18 <hi>gr.</hi> South, the arke will be 11 <hi>gr.</hi> 21 min.</p>
+               <p>¶ The first worke, will also shew what arke of any <hi>Azimuth</hi> from South is intercepted be<g ref="char:EOLhyphen"/>tweene the Horizon and Equinoctiall, if in stead of the hour-circle from South, you use the <hi>Azimuth</hi> from South. This intercepted arke, is the Equinoctiall altitude of that <hi>A<g ref="char:EOLhyphen"/>zimuth.</hi>
+               </p>
+               <p>So in the 45 <hi>Azimuth</hi> from South, the Equinoctiall is 29 <hi>gr.</hi> 21 min. high. In the 135 <hi>Azimuth</hi> from South, the Equinoctialls de<g ref="char:EOLhyphen"/>pression under the horizon, in 29 <hi>gr.</hi> 21 min.</p>
+               <p>This is made use of afterwards.</p>
+            </div>
+            <div n="11" type="part">
+               <pb n="15" facs="tcp:169725:12"/>
+               <head>XI. <hi>How high the Sun shall be upon any Azi<g ref="char:EOLhyphen"/>muth, and in any Declination.</hi>
+               </head>
+               <p>THe <hi>Azimuth</hi> is best numbred from the south. And this proposition (with most of those that follow) is to be done by helpe of compasses.</p>
+               <p>¶ If the ☉ be in the Equinoctiall, the first worke of the last proposition gets the Equi<g ref="char:EOLhyphen"/>noctiall altitude or depression, by counting the <hi>Azimuth</hi> from E to S, whereby the arke F K will be found. This arke (if the <hi>Azi<g ref="char:EOLhyphen"/>muth</hi> be lesse than 90) is the altitude: if more than 90, it is the depression.</p>
+               <p>But if the sun have Declination, then First, lay the threed from F towards K according to that Declination, and take the least distance from the point B, to your threed, and keep this extent. Then,</p>
+               <p>¶ If the suns declination be south; Count your <hi>Azimuth</hi> from E to S, and lay the threed there, which will cut the line E N, in T. Set one foot of the former Extent in T, and turn the other about toward the side A B, applying the threed to the remotest distance of that circuit. The threed so laid, will give the alti<g ref="char:EOLhyphen"/>tude
+<pb n="16" facs="tcp:169725:13"/> required; if you count the degrees from F. Thus the sun declining south 11 <hi>gr.</hi> 30′ will have 16½<hi>gr.</hi> of altitude in the 45 <hi>Azi<g ref="char:EOLhyphen"/>muth.</hi>
+               </p>
+               <p>¶ If the suns declination be North,—and the <hi>Azimuth</hi> lesse then 90 from south; Count your <hi>Azimuth</hi> from E to S, and lay the threed at it, and let it cut E N, in T. Then set one foot of your former extent in T, and with the other foot turned about, lay the threed at the remotest distance, from T to<g ref="char:EOLhyphen"/>wards the side A C. The theed so lying, shews from F in the equall limbe, the altitude requi<g ref="char:EOLhyphen"/>red. Thus if the sun decline 11½ <hi>gr.</hi> North, his altitude upon the 45 <hi>Azimuth</hi> will be 42⅕ <hi>gr.—</hi>But if the Azimuth be more than 90, count from B to S, the excesse above 90; and applying the thread thereto, see what de<g ref="char:EOLhyphen"/>grees of the equall limbe the threed cuts from From F. Count that number of de<g ref="char:EOLhyphen"/>grees from 60 (in the equal limbe) forwards, toward 70, 80, 90, and lay the threed there, which suppose to cut the line α ω, in π. Set your compasse (keeping still their first extent) upon π, and turn the other foot towards the the side A C, laying the treed at the remotest turne. If now to the threed so laid, you num<g ref="char:EOLhyphen"/>ber the degrees in the equall limbe, from
+<pb n="17" facs="tcp:169725:13"/> 60, the same shall be the altitude required. Thus if the sun decline 11½ <hi>gr.</hi> North, and the Azimuth be 101¼ <hi>gr.</hi> from South, the al<g ref="char:EOLhyphen"/>titude must be 5¾<hi>gr.</hi> in our latitude of 51 <hi>gr.</hi> 30 minutes.</p>
+               <div type="section">
+                  <head>Another way for this Proposition.</head>
+                  <p>BY the first work in this 11<seg rend="sup">th</seg>, get the Equi<g ref="char:EOLhyphen"/>noctial altitude or depression for your Azi<g ref="char:EOLhyphen"/>muth. Then lay the threed at E: and in C D, from D, count the said altitude or depression; from which number or point, take the least distance to the side A C. Enter this length between the side A C and the threed, keeping one foot upon the line A C, remove it there<g ref="char:EOLhyphen"/>on to and fro, till the other foot turned about may justly touch the threed. Then keeping your compasses there set, remove the threed from Gtoward H, according to the Suns declination, and take the least distance from your former standing to the threed. This length measured in the Scale CD [so as one foot standing upon the Scale, the other turned about may just<g ref="char:EOLhyphen"/>ly touch the side A C] shewes an arke, Which,
+<list>
+                        <pb n="18" facs="tcp:169725:14"/>
+                        <item>If the suns Declination be south, must be substact<g ref="char:EOLhyphen"/>ed from
+<list>
+                              <item>the Azimuths Equinoctiall Al<g ref="char:EOLhyphen"/>titude.</item>
+                           </list>
+                        </item>
+                        <item>If the suns Declination be north, and the Azimuth lesse than 90, must be added to</item>
+                     </list>
+                  </p>
+                  <p>If the suns Declination be north, and the Azimuth more than 90, the Azimuths Equinoctiall depression must be taken out of this arke;</p>
+                  <p>The result is the altitude looked for.</p>
+                  <p>Thus if the Azimuth be 70/110 from south, the Equinoctiall Altitude / Depression will be 15¼ <hi>gr.</hi>
+                  </p>
+                  <p>The arke found, will be 14¼. Then, If the ☉ decline 11½ south, the altitude up<g ref="char:EOLhyphen"/>on the 70 Azimuth wil be 1 degree.</p>
+                  <p>If the ☉ decline 11½ north, the Altitude upon the 70 Azimuth will be 29½ degrees.</p>
+                  <pb n="19" facs="tcp:169725:14"/>
+                  <p> If the suns declination were 20 <hi>gr.</hi> north, That forementioned arke would be 25 <hi>gr.</hi> whence taking 15¼, there re<g ref="char:EOLhyphen"/>maines 9¾ for the Altitude of the sun upon the 110 Azimuth from south, at that Declination of 20 <hi>gr.</hi> north.</p>
+                  <p>¶. By this worke, may a table of altitudes be made, by which the former Azimuth lines upon the quadrant may be inserted.</p>
+               </div>
+            </div>
+            <div n="12" type="part">
+               <head>XII. <hi>To finde how high the Sun shall be at any houre, and in any Declination.</hi>
+               </head>
+               <p>FIrst, finde the intercepted arke of your houre, betweene the parallel of Declina<g ref="char:EOLhyphen"/>tion, and the Horizon, by the tenth.</p>
+               <p>Secondly, finde what angle your hour-cir<g ref="char:EOLhyphen"/>cle maketh with the Horizon, by the ninth.</p>
+               <p>Thirdly, count that angle from C towards D, and from thence take the least distance to the side A C. Measure this length upon the side A C (from A) and there set your com<g ref="char:EOLhyphen"/>passes. Then keeping that station of your com<g ref="char:EOLhyphen"/>passes, Lay the threed to the intercepted ark, counted in the equal limbe from G: and take the least distance from your standing to the threed. Set one foot of this length in the
+<pb n="20" facs="tcp:169725:15"/> scale C D, so, as that the other being turned about, may touch the side A C, so shall that foot in the scale C D, give the Degrees of Al<g ref="char:EOLhyphen"/>titude required, if you number them from C.</p>
+               <p>Let the houre be three from Ncon. The intercepted arke between the Equinoctiall and Horizon, will be 29 <hi>gr.</hi> 22 minutes. And if the Sun decline North / South 11½ <hi>gr.</hi> The intercept<g ref="char:EOLhyphen"/>ed arkes will be 40.52/17.52. And the angle of the third houre with the Horizon, is 63 <hi>gr.</hi> 53▪ So that the Altitude for North / South Declination of 11½ <hi>gr.</hi> will be 36/16 degrees.</p>
+               <p>¶ By this work you may make a Table of the Suns altitudes upon any parallel of De<g ref="char:EOLhyphen"/>clination. And by those altitudes you may in<g ref="char:EOLhyphen"/>sert those Summer and Winter houres which are upon the Quadrant.</p>
+            </div>
+            <div n="13" type="part">
+               <head>XIII. <hi>To finde the Suns Azimuth.</hi>
+               </head>
+               <p>FIrst, lay the threed to the Suns Declinati<g ref="char:EOLhyphen"/>on counted in the equal limbe from F to K, and take the least distance from the point B,
+<pb n="21" facs="tcp:169725:15"/> to the threed, and keep your compasses at that extent. Then count the Suns Altitude in the equall limbe, from F, and lay the threed to it. This being done,</p>
+               <p>¶ If the Sun Decline South, keep one foot of your compasses always upon the line E N, beyond the threed, towards E, and re<g ref="char:EOLhyphen"/>move it still upon that line, till the other foot being turned about may touch the threed precisely. Observe then, where the foot of your compasse standeth upon the line EN suppose at V. Bring the threed to V, and it shewes (from E) the Azimuth from the South.</p>
+               <p>¶ If the Sun Decline North, keep one foot of your former extent, upon the line E N, on this side the threed, towards N, and remove it still upon that line, until the foot that is turned about do touch upon the threed. And ob<g ref="char:EOLhyphen"/>serve where your compasse foot then stand<g ref="char:EOLhyphen"/>eth, upon the line E N (suppose it stand at W.) Lay the threed at W, and it will cut the scale E B. The parts whereof, from E to the threed, are the Azimuth from South.</p>
+               <p>But if it so fall out in North Declinations, that when the threed is laid to the altitude, you cannot finde roome upon the line E N, whereon to set your compasses so as to keep
+<pb n="22" facs="tcp:169725:16"/> the conditions before required; then work in this manner. Add alwayes 30 degrees to the Suns altitude, and lay the threed at that compound Altitude, numbred in the equall limbe from F. To the threed so laid, enter the former extent of your compasses, between the threed and the line α ω, keeping one foot alwayes upon that line. And look where the foot of your compasses resteth upon that line; suppose at π. Take then the length from π to α, and set it upon the line N E (from N towards E): and to the point whete it rests, apply the threed: observing what parts it cuts upon the scale, from B. The number of those parts, gives the quantity of the Azimuth above 90 from the South. Or the parts cut from E, give the Azimuth from the North.</p>
+               <p>¶ If the ☉ decline not at all, but is in the Equinoctiall, then the sole Altitude from F to K (by helpe of the threed thereto applied) gives E S the Azimuth from South.</p>
+               <p>If the Altitude of the ☉ be 21⅔ in the Equinoctiall, the Azimuth from South is 60 degrees.</p>
+               <p>If the Sun decline South 5 <hi>gr.</hi> and the Alti<g ref="char:EOLhyphen"/>tude were 15¾ <hi>gr.</hi> the Azimuth would be 60 degrees.</p>
+               <pb n="23" facs="tcp:169725:16"/>
+               <p> If the ☉ decline North <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0 <hi>gr.</hi> and the Al<g ref="char:EOLhyphen"/>titude were 50, the Azimuth would be found 50 <hi>gr.</hi>
+               </p>
+               <p>If the ☉ decline North 20 <hi>gr.</hi> and the Alti<g ref="char:EOLhyphen"/>tude were 9¾ <hi>gr.</hi> the Azimuth would be 110 <hi>gr.</hi> from the South.</p>
+               <p>¶ If you suppose the sun to have no Alti<g ref="char:EOLhyphen"/>tude, and do work by these rules, you shall finde the suns Amplitude, Or<g ref="char:EOLhyphen"/>tive and Occasive, from the South. As if the sun Decline 20 <hi>gr.</hi> North, you will finde 123 <hi>gr.</hi> 20 <hi>min.</hi> for the Amplitude from the South.</p>
+            </div>
+            <div n="14" type="part">
+               <head>XIIII. <hi>To finde the houre of the day, by the Sun.</hi>
+               </head>
+               <p>COunt the suns Altitude in the equall limbe from F: and to the threed there laid, take the least distance from the point B: and keep this distance.</p>
+               <p>Then count the suns Declination (which is had easily by the first proposition:) from F in the equall limbe, and apply the threed, to it. Then further,</p>
+               <p>¶ If the declination be South, set one foot of your former extent, upon the line E N (al<g ref="char:EOLhyphen"/>wayes
+<pb n="24" facs="tcp:169725:17"/> on that side the threed on which E standeth from it) and remove it thereon, till the other (turned about) may justly touch the threed A K. Suppose (in so doing) the compasse foot stayeth at V. The threed ap<g ref="char:EOLhyphen"/>plied to the point V, will cut the houre from Noon, if you count the intercepted parts upon E B, from E.—Thus if the sun decline 20 degrees South, and the Altitude were 13 <hi>gr.</hi> 50 <hi>min.</hi> the houre at <hi>London</hi> would be 10, or 2.</p>
+               <p>¶ If the Declination be North, set one foot of your former extent upon the side A C, removing it thereon to and fro, till the other foot turned about, will onely touch the threed. When it is so fitted, let that foot upon the side A C, keep its station; and from thence extend the other foot to the suns De<g ref="char:EOLhyphen"/>clination counted in the scale A P This last extent must be applied to the line N E, from N: and where it stayes, lay the threed. So the parts cut upon the scale E B, will give the houre.—But this must be done with cau<g ref="char:EOLhyphen"/>tion For if that foot that kept its station, stood from A, beyond the Suns Declination in the scale A P, then the intercepted arke from E to the threed, gives the houre from Noon. But if the forenamed foot stood be<g ref="char:EOLhyphen"/>tween
+<pb n="25" facs="tcp:169725:17"/> A and the Declination, then the whole arke E B 90, with the arke from B back again to the threed (these two put together) give the hour from Noon.</p>
+               <p>Thus, if the sun decline 15 <hi>gr.</hi> Northward, and be 21 <hi>gr.</hi> high, the houre is 7 before, or 5 after, Noon. Or if the altitude were 2⅔ <hi>gr.</hi> the houre must have been 5 in the Morning, or 7 in the evening: namely, 90 and 15 de<g ref="char:EOLhyphen"/>grees from Noon.</p>
+            </div>
+            <div n="15" type="part">
+               <head>XV. <hi>On an Ʋpright declining plane, to finde the angle between</hi> 12 <hi>and</hi> 6.</head>
+               <p>COut the palnes Declination from C towards D: From that point take the least distance to the side CA. Set that length from M to Y, upon the line M Y. The threed laid at Y gives G K for the angle betweene 12 and 6.</p>
+               <p>Or count the Declination of the plane from B towards E, and lay the threed at it. The threed will cut N E. Take from N to the intersection, and apply it to M Y; the threed put to Y gives G. K, as before.</p>
+               <pb n="26" facs="tcp:169725:18"/>
+               <p> If a plane Decline 20 <hi>gr.</hi> this angle will be 66¾ at <hi>London.</hi>
+               </p>
+            </div>
+            <div n="16" type="part">
+               <head>XVI. <hi>To finde the Declination of a plane.</hi>
+               </head>
+               <p>FIrst, draw an Horizontall line upon your plane (which you may do by your qua<g ref="char:EOLhyphen"/>drant.) Then apply one side of the quadrant to that line, so as the limbe may be toward the sun, and the plane of the quadrant may lye Horizontally flat. Thirdly, having a loose threed and plummet, you must hold that threed close by the edge of the limbe (letting the plummet hang down at liberty) till the shadow of the threed passeth directly through the quadrants center. Which done, you shall see what degrees of the limbe the shadow cuts from that side of the quadrant which is per<g ref="char:EOLhyphen"/>pendicular to the Horizontall line. This is called the Horizontall distance. At the same moment of time, observe the same Altitude. By this Altitude you may get the suns Azi<g ref="char:EOLhyphen"/>muth from South, by the thirteenth.</p>
+               <p>After this preparation, take diligent notice, whether the shadow of the threed fall be<g ref="char:EOLhyphen"/>twixt the South and the perpendicular side of the quadrant, Or whether the same shadow
+<pb n="27" facs="tcp:169725:18"/> fall so, as to leave both the South and the said perpendicular side (both of them) upon one coast of the shadow.</p>
+               <p>In the first case, you must add the Horizon<g ref="char:EOLhyphen"/>tall distance to the Azimuth. In the latter case, you must substract the lesser out of the greater. The result (whether it be summe or difference) gives the planes Declination from the South.</p>
+               <p>Note here in the second case. That if the Horizontall distance be greater then the A<g ref="char:EOLhyphen"/>zimuth, then doth the plane decline to that coast (East or West) which is contrary to the coast on which the sun stood from the South. This falleth our very frequently.</p>
+               <p>Note also in the first case. That if the summe of the Horizontall distance and Azi<g ref="char:EOLhyphen"/>muth do exceed 180 <hi>gr.</hi> then the planes De<g ref="char:EOLhyphen"/>clination from South, is contrary to that coast whreon the sun stood. And it is found, by substracting the forementioned summe out of 360 degrees. This happens more sel<g ref="char:EOLhyphen"/>dome: that is, onely upon some North planes; and on them, onely then, when the suns Azi<g ref="char:EOLhyphen"/>muth is more than 90 from the South; and the Horizontall distance more than is the A<g ref="char:EOLhyphen"/>zimuth from the North.</p>
+               <p>Examples are here omitted for brevities
+<pb n="28" facs="tcp:169725:19"/> sake. Onely add this. That if the planes De<g ref="char:EOLhyphen"/>clination from South be above 90 <hi>gr.</hi> you must subduct it out of 180, and the remain<g ref="char:EOLhyphen"/>der is the Declination from the North.—By this accounting from North and South, you may always make that your plane decline not above 90. And as when it declines nothing it is a full South or North plane; So if it decline just 90, it is then a full East or West plane.</p>
+            </div>
+            <div n="17" type="part">
+               <head>XVII. <hi>How to draw any upright declining Diall.</hi>
+               </head>
+               <p>FIrst, draw a perpendicular or Plumb-line A B, and crosse it at right angles with the Horizontall line B C: and make B A equall to A {us} in your Quadrant.</p>
+               <p>2 Upon the equall limbe of your Quadrant, count the planes declination (from North or South) from G, and there keep the threed: which will cut some of those lines that are drawn within the upper square.</p>
+               <p>3 Observe first, those intersections which the prickt lines make with the threed at <hi>b, d, m.—</hi>Take then the length from A the center of the quadrant to <hi>b;</hi> and set it here upon the
+<pb n="29" facs="tcp:169725:19"/> Horizontall line from B to 1, (always on that side of B, which looks to the same coast whereunto the plane declineth.) So, take from the quadrants center A, to the second prickt lines intersection with the threed, at <hi>d;</hi> and set it here from B to 2. So likewise the third A <hi>m;</hi> must be set from B to 3.</p>
+               <p>4 Observe again all such intersections as are made with the threed, by the rest of those lines whose common concurrence is in the point M, namely, at <hi>a, c, e, h:</hi> and take their severall lengths from the quadrants center A, and prick them here down on the other side B (contrary to the coast of declination) namely, at 11, 10, 9, 8. Then for the next line upon the quadrant (which doth not, but would intersect the threed, if it were drawn out far enough) observe where the threed cuts the extravagant line <hi>r s,</hi> namely, in <hi>s:</hi> and take from A to <hi>s,</hi> and turn that length twice from B, so shall it designe the point 7. After<g ref="char:EOLhyphen"/>wards at the point 7, draw the infinite line CD parallel to B A. Also set off the houre of 6, on that side B which is contrary to the coast of Declination, namely, from B to E, according as the angle between 12 and 6 shall be found by the fifteenth.</p>
+               <p>5 Draw all the houre-lines from A, the
+<pb facs="tcp:169725:20"/>
+                  <figure>
+                     <head>
+                        <hi>Declination</hi> 28<seg rend="sup">d.</seg>
+                        <hi>S. East</hi>
+                     </head>
+                     <figDesc>diagram</figDesc>
+                  </figure>
+                  <pb n="31" facs="tcp:169725:20"/> center of your Diall, through the points 3, 2, 1, 12, 11, 10, 9, 8, 7, in such wise, that as ma<g ref="char:EOLhyphen"/>ny as well can, may cut the line D C, as is here done, in <hi>p</hi> and <hi>q.</hi>
+               </p>
+               <p>6 Make 6, 5, equall to 6, 7: and 6, 4, equall to 6, <hi>p:</hi> and 6, 3, equall to 6, <hi>q:</hi> and draw the rest of the houres, <hi>A</hi> 5, <hi>A</hi> 4, <hi>A</hi> 3. Thus you may get 12 houres, and if you extend them beyond the center, you shall have the whole 24. Out of which you may make choice of such as will serve your use.</p>
+               <div type="section">
+                  <head>¶ <hi>For placing the style,</hi>
+                  </head>
+                  <p>Seek the Elevation and Deflexion by the fifth and sixth. And make B F equall to the Deflexion, setting the substylar line F A al<g ref="char:EOLhyphen"/>ways on that side 12 which is contrary to the coast of the planes declination. Make also F G equall to the Elevation: So F A G will be the pattern of the style.</p>
+                  <p>Or the threed lying still at the planes de<g ref="char:EOLhyphen"/>clination upon the Quadrant as it did, Take the least distance from the point X to the threed; and set that length from B to H, and draw A H for the Substylar. Then ma<g ref="char:EOLhyphen"/>king A H K a right angle, take the least di<g ref="char:EOLhyphen"/>stance from M to the threed, and make H K equall to this distance: So is K A H the pat<g ref="char:EOLhyphen"/>tern of your style.</p>
+               </div>
+               <div type="section">
+                  <pb n="32" facs="tcp:169725:21"/>
+                  <head>¶ <hi>In all Dials,</hi>
+                  </head>
+                  <p>The style must stand just over the Substylar, Elevated so much above it, as the Elevation (before found) commeth to.</p>
+                  <p>In South Upright decliners, the center of the Diall is above (as in the former figure) and the style points downward. But in North de<g ref="char:EOLhyphen"/>cliners, the center must be below, and the style must point upward.</p>
+               </div>
+            </div>
+            <div n="18" type="part">
+               <head>XVIII. <hi>Of the upright full South-Diall.</hi>
+               </head>
+               <p>THe Declination of the full South Diall is nothing. Whence it is, that</p>
+               <p>The angle betweene 12 and 6 is 90 degrees.</p>
+               <p>The line of 12 is the substylar.</p>
+               <p>The styles Elevation is the comple<g ref="char:EOLhyphen"/>ment of your latitude.</p>
+               <p>The way of pricking down the houres is (in a manner) the same with that before for decliners. No more needs <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> be said of it.</p>
+               <p>The Erect full North plane is the same with this South. Onely the style of this, points upwards toward the North pole, as the former doth downward towards the South pole.</p>
+            </div>
+            <div n="19" type="part">
+               <pb n="33" facs="tcp:169725:21"/>
+               <head>XIX. <hi>Of Ʋpright far declining plaines.</hi>
+               </head>
+               <p>THese Dialls are more difficult than those other decliners mentioned in the seven<g ref="char:EOLhyphen"/>teenth, because here the houres have no cen<g ref="char:EOLhyphen"/>ter or point of meeting upon the plaine. It will not be amisse therefore to set down the whole worke in all parts of it.</p>
+               <p n="1">1 Draw a perpendicular or plumb-line A B, and crosse it at right angles with the Horizontall line B C. And make B A equall to A ☉ in your quadrant, setting A above B if the plaine decline from the South; or be<g ref="char:EOLhyphen"/>low B if it decline from North.</p>
+               <p n="2">2. Count the plaines Declination from South or North, upon the limbe of your qua<g ref="char:EOLhyphen"/>drant, from G: and there keep the threed.</p>
+               <p n="3">3 Among those lines on the Qua<g ref="char:EOLhyphen"/>drant (whose common concurrence is at M) observe that intersection which is made by the 6<seg rend="sup">th</seg> houre from the quadrants center, with the threed. Take the length from the same center to that intersection, and prick it down here from B to C (and on that side B which looketh toward the South, if the plaine decline from South: or toward the
+<pb n="34" facs="tcp:169725:22"/> North, if the plaine decline from North.) And draw out the lines C D E parallel to B A.</p>
+               <p n="4">4 Observe again upon the quadrant that intersection which the second line from the the center makes with the threed, and take the length from the center of the quadrant there<g ref="char:EOLhyphen"/>unto, and prick it down towards C, namely from B to F.</p>
+               <p n="5">5 Take the lengths from the center of your quadrant to every houre point upon the side A C: and prick them all downe here, from C to 7 and 5, from C to 8 and 4, from C to 9, 10. And lastly, take from the center of your quadrant to the point <hi>r,</hi> and turn that length twice from C: this double length will reach from C to 11, at E.</p>
+               <p n="6">6 Lay a ruler to A and F, and transfer the the point F unto H in the line C E. Then take the length from H to 10, and set it from A (towards B) to 10, the same way from A that 10 stands from H.</p>
+               <p n="7">7 With the same length H 10, or A 10, go to your quadrant, and setting one foot of it, on the side A C, in the fourth point from the Center, with the other (turned about) lay the threed at the remotest distance, and keep it there.</p>
+               <pb facs="tcp:169725:22"/>
+               <figure>
+                  <head>An upright Plain declining 82 deg. from South, Eastward.</head>
+                  <figDesc>diagram</figDesc>
+               </figure>
+               <p n="8">
+                  <pb n="36" facs="tcp:169725:23"/> 8 From every point on the side A C of your quadrant, take the least distances to the threed so laid; setting them down from A to 7 and 5, from A to 8 and 4, from A to 9. A 10 was put on before. Then the least di<g ref="char:EOLhyphen"/>stance from <hi>r</hi> to the threed being twice turn<g ref="char:EOLhyphen"/>ed from A towards B, will give the length from A to 11.</p>
+               <p n="9">9 For the finishing then of the houres, you have no more to do, but draw right lines through each couple of correspondent points; namely, from 4 to 4; 5 to 5; from C to A, or 6 to 6; from 7 to 7; 8 to 8; 9 to 9; 10 to 10; and from 11 to 11.</p>
+               <div type="section">
+                  <head>¶ <hi>Concerning the forming and placing of the style.</hi>
+                  </head>
+                  <p>10. BY the precedent seventh proposition you may finde the plaines difference of Longitude, which (for this plaine that de<g ref="char:EOLhyphen"/>clines 82 <hi>gr.)</hi> will be (here at <hi>London)</hi> 83 <hi>gr.</hi> 43 <hi>min.</hi> and that from the South, because the plaine declines from the South. The comple<g ref="char:EOLhyphen"/>ment of which longitude (83 <hi>gr.</hi> 43 <hi>min.)</hi> is 6 <hi>gr.</hi> 17 <hi>min.</hi> Take then first, the length from C to 7 the next hour point upon C E, and
+<pb n="37" facs="tcp:169725:23"/> carrying that extent to your quadrant, set one foot of it upon 15 in the scale A P: and lay the threed so, that the other foot turned about may just touch or passe over it: and keep the threed there. Then (in the scale A P) count the forementioned complement, 6 <hi>gr.</hi> 17 <hi>min.</hi> and taking the least distance from that point to the threed, set it from 6 a clock at C, to<g ref="char:EOLhyphen"/>wards E if the plaine decline from South, (or towards D if the plane decline from North) as you see it done here, at G. Secondly, do the same worke again upon the line A B. That is; Take from A to 7 the neerest houre point, and set one foot of that extent upon 15 in the scale A P, and with the other foot turned a<g ref="char:EOLhyphen"/>bout, lay the threed as before. Then in the same scale A P, count the same number 6 <hi>gr.</hi> 17 <hi>min.</hi> and taking the least distance from thence to the threed, set that length from A to K, answering to C G. And last of all, draw the right line G K. This shall be the line of deflexion, over which the style must stand.</p>
+                  <p>11 Furthermore. Through the points G and K (or any other two points of the same line) draw the two lines G O, K P, both per<g ref="char:EOLhyphen"/>pendicular to the deflexion line G K. Then considering that every houre comprehends 15 degrees of longitude (that is, that from C to 7
+<pb n="38" facs="tcp:169725:24"/> is 15, and from 7 to 8 is 15, &amp;c.) and since that C G is 6 <hi>gr.</hi> 17 <hi>min.</hi> If <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> G, be taken out of C 7 which is 15 <hi>gr.</hi> there will remain G 7, 8 <hi>gr.</hi> 43 <hi>min.</hi> To which, if you add from 7 to 9, which is two houres or 30 degrees, the sum will be 38 <hi>gr.</hi> 43 <hi>min.</hi> whose complement is 51 <hi>gr.</hi> 17 <hi>min.</hi> If now you make the angles G M R, and K N S, each 51 <hi>gr.</hi> 17 <hi>min.</hi> they will cut the Deflexion line G K, in R and S. And if further, to the radius G R, you describe the arke R T; and to the radius K S you de<g ref="char:EOLhyphen"/>scribe the arke S V; and draw the line T V, a tangent to both these arkes, the <hi>Trapezium</hi> G T K V shall be the pattern of your style. In placing which, you must be carefull that these perpendicular lengths G T and K V (perpendicular I say to T V the Fi<g ref="char:EOLhyphen"/>duciall edge) be justly placed upon the two assumed points at G and K.—Or having found G 7 to be 8 <hi>gr.</hi> 43 <hi>min.</hi> you may add to it from 7 to 10, which is (three houres or) 45 degrees. The summe will be 53 <hi>gr.</hi> 43 <hi>min.</hi> whose complement is 36 <hi>gr.</hi> 17 <hi>minutes.</hi> If now from the points O and P (where the said houre of 10 cuts the two f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re-mentioned per<g ref="char:EOLhyphen"/>pendiculars G O and K P) you make the an<g ref="char:EOLhyphen"/>gles G O R and K P S, each equall to 36 <hi>gr.</hi> 17 <hi>min.</hi> they will cut the deflexion line G K in
+<pb n="39" facs="tcp:169725:24"/> the same two points R and S. After which, you may proceed to make the patterne of your style, as before.</p>
+                  <p>¶ 1 Note that in performing the fifth section of this proposition, instead of taking those houre points from the Center of your quadrant upon A C the side of your quadrant (if those distances should be too great for your plaine) you may lay the threed any where upon the Quadrant, and in<g ref="char:EOLhyphen"/>stead of taking from the center to the fore-named points, you may take the least distances from the said points to the threed, severally, and set them down from C to 7 and 5, and from C to 8 and 4, and so to 9, 10; and for 11, you must take from the point <hi>r</hi> to the threed, and set it twice from C; by which meanes they will all be of lesse distance from C. And then all the worke is to be con<g ref="char:EOLhyphen"/>tinued, as is before prescribed.—Or if the said distances should be too little, you may double, triple, or, &amp;c, to make them greater.</p>
+                  <p>¶ 2 Note again, that in decliners from the North, that difference of Lon<g ref="char:EOLhyphen"/>gitude
+<pb facs="tcp:169725:25"/> which you finde by the se<g ref="char:EOLhyphen"/>venth, is to be reckoned from the North, and so the complement of it is to be accounted from C (or 6 a clock) towards D. And that the widest parts of the houres in these North plaines must point upwards, and the closest parts downwards; contrary to what is expressed here in this plane, which hath its Declination from the South.</p>
+                  <p>¶ 3 Note lastly, that this direction here given for enlarging the houres in farre Decliners, may easily be ap<g ref="char:EOLhyphen"/>plied to such direct, or Horizontall Dials (as are mentioned in the 26 follwoing) upon which the pole hath but small Elevation. For the Diall (or onely some chief houres of it) being described in its naturall streightnesse, may be enlarged by the same meanes that this last was. Which will not be hard to do, but would be tedious here to run over againe.</p>
+               </div>
+            </div>
+            <div n="20" type="part">
+               <pb n="41" facs="tcp:169725:25"/>
+               <head>XX. <hi>Of full East and West upright Dialls.</hi>
+               </head>
+               <p>THese are more easie than the former sort were. For having drawn the plumb-line A B, and assumed the point A for the houre of 6; goe to your Quadrant, and take from the center of it to all the houre-points upon the side A C; and prick the first of them down in the line A B, from A to 5 and 7: the second from A to 4 and 8; the third from A to 3: the 4<seg rend="sup">th</seg>. from A to 2. And for the fifth, Take from the center of your Quadrant to the point, <hi>r,</hi> and set that length twice from A, so it shall limit out the point 1.—Having these points, draw lines through them, all pa<g ref="char:EOLhyphen"/>rallel one to the other, and all pointing up to the North; namely so, as to make the acute angles B A C equall to the complement of your latitude.</p>
+               <pb facs="tcp:169725:26"/>
+               <p>
+                  <figure>
+                     <head>A full West upright diall.</head>
+                     <figDesc>diagram</figDesc>
+                  </figure>
+               </p>
+               <div type="section">
+                  <pb n="43" facs="tcp:169725:26"/>
+                  <head>¶ <hi>For the Style.</hi>
+                  </head>
+                  <p>IT must always stand over the line of 6 a<g ref="char:EOLhyphen"/>clock, parallel to it, and distant every where from it according to the length of A D. Which lenght is soone found, by drawing A D perpendicular to the houre-lines, cut<g ref="char:EOLhyphen"/>ting the third houre from 6, in D. By which line you may make the patterne of your style. For the Fiduciall edge lyes parallel to the line of 6, A C, and at the distance of that line A D.</p>
+                  <p>¶ 1 Note here too; that if your lengths from the Quadrants center to the houre-points be too long, you may shorten them by laying the threed upon the Quadrant according as your convenience shall direct, and taking the least distances from those houre-points to the threed; and so pricking them on from A or 6, to 5, 4, 3, &amp;c; as was before mentioned in the first Note upon the former proposition.—Or if they be too little, they may be doubled, &amp;c. as is there expressed.</p>
+                  <pb n="44" facs="tcp:169725:27"/>
+                  <p> ¶ 2 Note further, that what is here done for describing these East and West Dialls, may be applied to the direct Polar Plaine. Onely re<g ref="char:EOLhyphen"/>member that you are not tyed (in the Polar) to make the houres to any set angle with the line B A, but they are best at right angles; for then the line A B may be taken for, and placed as, the Horizontall line of the said plaine; all the houres lying as verticall lines unto it. And also the line of 6 here, must be ta<g ref="char:EOLhyphen"/>ken (in the direct polar) for the line of 12, and the rest of the houres are to be drawn alike on both sides 12: nothing in substance differing from these East and West Planes.</p>
+               </div>
+            </div>
+            <div n="21" type="part">
+               <head>XXI. <hi>In East and West re-in-cliners, To get the Deflexion.</hi>
+               </head>
+               <p>COunt the re-in-clination from D to<g ref="char:EOLhyphen"/>wards C. Take the least distance from thence to the side A C. Set that lenght
+<pb n="45" facs="tcp:169725:27"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rom M to Y, and lay the threed at Y. The <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>egrees F K will give the Deflexion.</p>
+               <p>The substylar line must ascend in Recliners, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd descend in Incliners, from the line of 12, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ccording to the quantity of this Deflex<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on.</p>
+               <p>The line of 12 lyes always Parallel to the Horizon.</p>
+            </div>
+            <div n="22" type="part">
+               <head>XXII. <hi>To finde the angle Between</hi> 12 <hi>and</hi> 6.</head>
+               <p>COunt the Re-in-clination From E to<g ref="char:EOLhyphen"/>wards B. The threed there laid will cut the equall limbe. The degrees whereof from G to the threed, are the angle required.</p>
+            </div>
+            <div n="23" type="part">
+               <head>XXIII. <hi>To get the Styles Elevation.</hi>
+               </head>
+               <p>LAy the threed to the Re-in-clination numbered in the equall limbe from F, and take the least distance from N to the threed. Set one foot of that length in B, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay the threed so as to touch the other foot when it is turned about. The threed so laid, gives the Elevation in the equall limbe, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rom F.</p>
+            </div>
+            <div n="24" type="part">
+               <pb n="46" facs="tcp:169725:28"/>
+               <head>XXIV. <hi>To finde the difference of Longitude.</hi>
+               </head>
+               <p n="1">1 COunt the Deflexion in the equall limbe from F, and lay the threed to it; and take the least distance from B to the threed. Put one foot of this length in N, and apply the threed to the remotest distance of the other foot. The threed will then shew in the equall limbe, the difference of longitude, if you count from F.</p>
+               <p n="2">2 Count the deflexion in the equall limbe, from G: and to the threed there laid, take the least distance from B. Measure that length upon the side A B, from A; keeping one foot there fixed. Then lay the threed to the plaines Re-in-clination counted also from F in the equall limbe, and take the least distance from your standing to the threed. Set one foot of this length in B, applying the threed to the other foot turned about. The threed so laid, gives the difference of Longi<g ref="char:EOLhyphen"/>tude in the equall limbe, from G.</p>
+               <p>Thus if an East or West plaine Re-incline, here at <hi>London,</hi> 30 degrees, it will have in
+<pb n="47" facs="tcp:169725:28"/>
+                  <table>
+                     <row>
+                        <cell>Deflexion</cell>
+                        <cell>47°. 26′.</cell>
+                     </row>
+                     <row>
+                        <cell>Angle from 12 to 6.</cell>
+                        <cell>55. 26.</cell>
+                     </row>
+                     <row>
+                        <cell>Elevation</cell>
+                        <cell>23°. 02′.</cell>
+                     </row>
+                     <row>
+                        <cell>Differ. of long.</cell>
+                        <cell>70. 14.</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="25" type="part">
+               <head>XXV. <hi>How to draw the Diall.</hi>
+               </head>
+               <p>VPon the backside of your Quadrant, in the upper part of it, you have lines drawne altogether like those on the foresaid placed neer the Quadrants center, the use of which was shewed before.</p>
+               <p>The manner of work in this proposition is in most things sutable to that in the seven<g ref="char:EOLhyphen"/>teenth, and will need no other direction.</p>
+               <p>Onely for placing the lines, Take notice, that,</p>
+               <p>The line of 12 in these East and West Re<g ref="char:EOLhyphen"/>in-cliners, lyeth alwayes parallel to the Ho<g ref="char:EOLhyphen"/>rizontall line of the plaine. So that if we suppose the former figure of the seventeenth to represent one of these Dialls, then A B must be conceived to lie Horizontall, and B C verticall. All other works will be like to those in the seventeenth.</p>
+               <p>The style in recliners pointeth upward, and the substylar and houre of 6 do ascend above
+<pb n="48" facs="tcp:169725:29"/> the line of 12, So much as the Deflexion and angle from 12 to 6, come to. The center of the Diall is on the South end of the line of 12.</p>
+               <p>The style in incliners pointeth downward, and the substylar and houre of 6 do descend below the line of 12, so much as the Deflex<g ref="char:EOLhyphen"/>ion and angle from 12 to 6 come unto. The center of the Diall is on the North end of the 12 a clock line.</p>
+               <p>These things being observed, you must count the Re-in-clination of your plaine in the equall limbe on the backside from the left hand toward the right, according as the figures are set: and there lay the threed and keep it. Then observe how it cuts the lines next to the center, and proceed in all things as in the seventeenth before.</p>
+               <p>¶ Note that you may finde the inclination of a plaine by applying one side of your Qua<g ref="char:EOLhyphen"/>drant to the plaines verticall line: for so the threed will cut the quantity of inclination in the degrees of the equall limbe being num<g ref="char:EOLhyphen"/>bered from that side of the Quadrant which toucheth the plaine.—And for find<g ref="char:EOLhyphen"/>ing the reclination, you may lay a ruler to the verticall line of the reclining face, and take the inclination of the under side of that ruler.
+<pb n="49" facs="tcp:169725:29"/> That inclination will be the same with the re<g ref="char:EOLhyphen"/>clination.</p>
+               <p>Note also, that this here delivered for East and West Re-in-cliners, is intended chiefly for drawing houres upon those kindes of plaines when you meet with them upon Bo<g ref="char:EOLhyphen"/>dies cut regularly. For otherwise you will hardly ever finde any such just plaine upon a fixed building.</p>
+               <p>Lastly, for a Scale of chords, which here, and in some of the precedent precepts is re<g ref="char:EOLhyphen"/>quired, you may make use of the equall limbe of your quadrant.</p>
+            </div>
+            <div n="26" type="part">
+               <head>XXVI. <hi>To make an Horizontall Diall to any Latitude.</hi>
+               </head>
+               <p>FIrst, draw the right line B C, and erect the Perpendicular A H. Then take from the center (on either side of your quadrant) to the third houre upon the side A C; and make A H equall thereto. And draw F H parallel to B C; and the line 5 K 7 also just in the midst of them.—After this, lay the threed to the Latitude of the plaine counted in the equall limbe: and take from every point of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> side A C, the least distance to the
+<pb facs="tcp:169725:30"/>
+                  <figure>
+                     <figDesc>diagram</figDesc>
+                  </figure>
+                  <pb n="51" facs="tcp:169725:30"/> threed, and set each of them down both wayes, namely, from A to 4 and 8, from A to 3 and 9, to 2 and 10, and from A to 1 and 11. Then take from the point <hi>r</hi> upon the side A C, to the threed, and set that length from K to 5 and 7, both wayes.—You have now nothing more to do, but onely from H to draw the hour-lines to all the fore<g ref="char:EOLhyphen"/>named points: so the draught is easily finished.</p>
+               <p>The style must stand upon the line of 12, and is to be elevated according to the plaines latitude: as the manner is in all Horizontall Dialls.</p>
+               <p>¶ The use of this proposition is to draw all Dialls in any Latitude for any direct re-in-clining plaine. For, the re-in-clination com<g ref="char:EOLhyphen"/>pared (in North re-in-cliners) with the poles Elevation: or (in South direct re-in-cliners) with the Equinoctialls Altitude, will easi<g ref="char:EOLhyphen"/>ly give the plaines Latitude: in the former, the difference was the Elevation it selfe: in the latter, the Complement of the poles Ele<g ref="char:EOLhyphen"/>vation.—And this proposition, with the seventeenth for upright plaines; the twen<g ref="char:EOLhyphen"/>tieth for upright East and West, and so also for Polar plaines on which the pole hath no Elevation: the twenty fifth for East and
+<pb n="52" facs="tcp:169725:31"/> West re-in-cliners: the eighteenth for full North and South erect; will furnish you with wayes to draw Dialls upon such regu<g ref="char:EOLhyphen"/>lar bodies, whose plaines have any such of the fore-mentioned Aspects.</p>
+            </div>
+            <div n="27" type="part">
+               <head>XXVII. <hi>To finde the houre of the Night by the Starres.</hi>
+               </head>
+               <p>THe Stars upon the Quadrant (one or other of them) will alwayes be in convenient place of the heavens: that is, of two or more houres di<g ref="char:EOLhyphen"/>stance from the Meridian.—Having then made choice of that Starre that is fittest, looke what number is annexed to the name of it. Seeke that number in the left margin of the foreside of your quadrant, and close by the houre lines, and rectifie the Bead to it.—Then hold up the quadrant steadily, with the sights levelled to the Starre, as if you were to take the Starres Altitude: and you shall finde the Bead to shew (among the Summer houres of the quadrant) the motion of the Starre in houres, quarters, and parts of
+<pb n="53" facs="tcp:169725:31"/> a quarter. This is called the Starrs houre; but this is not the houre of the Night till it be turned into the Suns houre: which thing is to be done in this manner.</p>
+               <p>Look upon the back-side of the quadrant for your Starre, and lay the threed upon it: slipping the Bead down to the slope houres below, till it stand upon the same quarter and part (from some just houre on the left hand of the bead) with the Starres houre before found. Then note the said houre on the left hand which goeth next before the bead, for that must be supposed to represent the Starres houre, and must therefore be called by the same, or number that the Starres houre was. And following houres (from the Bead towards the right hand, must successive<g ref="char:EOLhyphen"/>ly take their numbers, untill you come to be under the day of your moneth. Unto which day if the threed be layd, the bead will (by keeping your former account) shew the true houre, quarter, and part, of the Night.</p>
+               <p>
+                  <hi>Example,</hi> 1. On <hi>January</hi> the 20, the hour of <hi>Cor Leonis</hi> was observed Eastward of the Me<g ref="char:EOLhyphen"/>ridian, to be 9 and ¼ and ⅓ part a quarter. The threed laid upon that Star, on the back-side of the Quadrant, will crosse the slope houres as doth the line A B. And the bead put
+<pb n="54" facs="tcp:169725:32"/> down to the forementioned parts of the houre, will stand at the point B. So that the hour C must be called 9 a clock, which is the ob<g ref="char:EOLhyphen"/>served houre of the Starre. Then the line D must be called 10 a clock: and the threed being put to <hi>January</hi> 20 (taken in the lower circular line of moneths) will lie in the line A E; and the Bead at E shews the time of the Night to be past (the line D, that is, past) 10 a clock, about ¼ and ⅓ part of a quarter, which is 15 and 5 <hi>minutes:</hi> or 20 <hi>minutes</hi> past 10 at night.—But if this ob<g ref="char:EOLhyphen"/>servation had been upon the second day of <hi>November:</hi> then the threed layd upon (the day given in the lower circle of moneths) <hi>November</hi> 2, would lie in the line A F: and the Bead would be upon the full houre<g ref="char:EOLhyphen"/>line that passeth through F, which would be 4 a clock in the morning For if the line C be 9, the line D is 10, the next line is 11, and so forward till your account fall up<g ref="char:EOLhyphen"/>on F: which must be 4 a clock past (12 or) Midnight.</p>
+               <p>
+                  <hi>Example</hi> 2. Upon the 8 of <hi>August,</hi> the Starre <hi>Aquila</hi> was seen on the Westsi de of the Meridian, and the houre of it was found, 3 and ½ an houre and ½ a quarter. The threed therefore being laid upon that Starre
+<pb n="35" facs="tcp:169725:32"/> would be as the line A G, and the Bead (re<g ref="char:EOLhyphen"/>ctifyed to the ½ houre and ½ quarter) would stand at the point G. So that the next houre<g ref="char:EOLhyphen"/>line on the left hand of G, must be called 3 a clock: and the line F must be 8 a clock. Then, the threed being removed to the day of your moneth <hi>(August</hi> 8, in the upper circular line of moneths) will lye in the line A B: and the Bead at B will shew the houre of the Night (if you keep your former account) to be ¼ and halfe past 1 a clock. For if F be 8 a clock (as is before expressed) then the last houre of the limbe is 11, the first is 12, the second 1; beyond which, the Bead B is about 22 <hi>minutes</hi> of an houre. There<g ref="char:EOLhyphen"/>fore the houre of the night is 1 a clock 22 <hi>mi<g ref="char:EOLhyphen"/>nutes.</hi>
+               </p>
+               <p>By these examples the manner of the worke will sufficiently appear in all cases.</p>
+            </div>
+            <div type="part">
+               <pb n="56" facs="tcp:169725:33"/>
+               <head>The vse of the Altimetrie Scale.</head>
+               <p>THat Scale on the fore-side of the Quadrant next to the equall limbe is here called the Altimerie Scale. It is numbred by 1, 2, 3, &amp;c, to 10, 20, 30, &amp;c, to 100. Each of which num<g ref="char:EOLhyphen"/>bers are best supposed to be 100 fold. <hi>viz,</hi> 100, 200, &amp;c, to 1000, 2000, &amp;c: to 10000: and all the lesser parts estimated accordingly.—The ground on which you stand to make your mensuration, is also supposed to be a just levell.</p>
+               <div n="1" type="section">
+                  <head>I. <hi>To finde any height at one observation.</hi>
+                  </head>
+                  <p>LEt your station be at E; and the sights D A directed to the point F: the threed A B cutts off the parts C B in the measuring Scale: which parts must be remembred.—Then measure from your station E, to the point H, which is just under F. And (al<g ref="char:EOLhyphen"/>wayes in this case (multiply this distance
+<pb n="57" facs="tcp:169725:33"/> E H by the forenamed parts of C B, and from the product cut off 3 figures toward the right hand. The remainder is the Altitude G F. To which you must add H G, or D E, the height from your eye at D to your foot at E.</p>
+                  <p>Thus if the threed A B should cut off C B 1500 parts, and the distance E were 59 feet, The height G F would be 88. 500, or 88½ feet.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>II. <hi>To finde part of an Altitude.</hi>
+                  </head>
+                  <p>LEt the length of F X be onely required. Standing then at E, you may finde the altitude G F. Keep still the same standing at E, and finde the altitude G X, by the last precedent. So G F taken from G X, gives F X required.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>III. <hi>Standing upon a known height, to finde a Distance.</hi>
+                  </head>
+                  <p>LEt the height F H be known, and the di<g ref="char:EOLhyphen"/>stance H K be required. Order your stand<g ref="char:EOLhyphen"/>ing so, that the two sights P, S; the point F, and the distance K, may all appeare in one
+<pb facs="tcp:169725:34"/>
+                     <figure>
+                        <figDesc>diagram</figDesc>
+                     </figure>
+                     <pb n="59" facs="tcp:169725:34"/> right line. Then look what degrees the plum<g ref="char:EOLhyphen"/>met cuts off in the equall limbe from Q. Count the same number in the same limbe, from S; and there lay the threed, as P T. Note then, what parts it cuts upon the measuring Scale from Q to T. Multiply those parts in<g ref="char:EOLhyphen"/>to F H the known Altitude: and from the product cut off three figures, the remainder or quotient, is the distance H K.</p>
+                  <p>Thus, if the threed P R should cut off Q R in the equall limbe 56⅓ degrees, the same counted the other way, from S to T in the equall limbe, and the threed laid there<g ref="char:EOLhyphen"/>to, would give 667 in the measuring Scale. Then F G being 88½ feet, and G H (suppose) five feet, F H must be 93½ feet. This mul<g ref="char:EOLhyphen"/>tiplyed into 667, makes 62364: from whence cutting away the three right hand figures, there remaines 62. 364 or 62⅓ feet, for the di<g ref="char:EOLhyphen"/>stance H K.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>IV. <hi>To finde part of a distance.</hi>
+                  </head>
+                  <p>IF the distance of K from Z were requi<g ref="char:EOLhyphen"/>red. First, finde H K, then H Z, by the third precedent: their difference is K Z. If
+<pb n="80" facs="tcp:169725:35"/> K Z were a trench, you might from the tower F, finde the breadth of it without any approach unto it.</p>
+               </div>
+               <div n="5" type="section">
+                  <head>V. <hi>To finde a height at two observations.</hi>
+                  </head>
+                  <p>IF F H were to be measured, and the way from E to H were unpasseable, so that the distance of E from H could not be measured. You must in this case make two observations. For which purpose, Take your first station at E, and direct the sights D, A, to the point F: noting what parts the threed cuts upon the equall limbe from C to B. Then goe back<g ref="char:EOLhyphen"/>wards in a right line, to a competent distance, as to M; and there making a second station, observe (as before) what degrees the threed cuts upon the equall limbe from N to O: (the two sights L, I, being justly directed to the point F). Then count these two arkes in the equall limbe, from the contrary side of the quadrant, namely, from D to Y, and from L to <hi>u,</hi> and applying the threed thereto, looke what parts it cuts from the measuring Scale at Y, and V. Take the lesser number of parts, out of the greater, noting the Difference. Measure also the distance of
+<pb facs="tcp:169725:35"/> your two stations, namely from E to M, and add three cyphers to that measure. This last number must (in this kinde of worke) be di<g ref="char:EOLhyphen"/>vided alwayes, by the fore-noted difference: and the quotient will give the Altitude of F above G.</p>
+                  <p>
+                     <hi>Example.</hi> Let the first observation cut off 38⅔ <hi>gr.</hi> in the equall limbe. The second 56⅓ <hi>gr.</hi> Count the first arke from D to Y: the threed there laid gives 1250 in the mea<g ref="char:EOLhyphen"/>suring Scale. The second so counted from L to V, gives 667. The difference of these two, is 583. Let the distance of the stations mea<g ref="char:EOLhyphen"/>sured from E to M, be 5160 feet. This num<g ref="char:EOLhyphen"/>ber, with three cyphers added, is 5160000. Which divided by 583 (the former difference) gives in the quotient, 8850 or 88½ feet for the height G F. And if G H be 5 foot more; The whole height H F will be 93½ feet.</p>
+                  <p>¶ Note that in these mensurations, the point G is supposed to stand in the same levell with the corner of your Qua<g ref="char:EOLhyphen"/>drant D and L. So that G H, D E, L M, are all of one height. And note too, that the two stationary points are E and M, namely those which are just under the corners D and L.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:169725:36"/>
+            <head>Errata.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>Pag.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Line.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Read.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>1</cell>
+                     <cell>Ninetyeth.</cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell>21</cell>
+                     <cell>the threed laid at K.</cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>25</cell>
+                     <cell>horizon, is 29 <hi>gr.</hi> 21 <hi>min.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>16</cell>
+                     <cell>19·20</cell>
+                     <cell>cuts from P. Count</cell>
+                  </row>
+                  <row>
+                     <cell>25</cell>
+                     <cell>13</cell>
+                     <cell>Count the plaines</cell>
+                  </row>
+                  <row>
+                     <cell>26</cell>
+                     <cell>19</cell>
+                     <cell>the Suns altitude.</cell>
+                  </row>
+                  <row>
+                     <cell>34</cell>
+                     <cell>2</cell>
+                     <cell>the line C D E</cell>
+                  </row>
+                  <row>
+                     <cell>52</cell>
+                     <cell>16</cell>
+                     <cell>quadrant, close by</cell>
+                  </row>
+                  <row>
+                     <cell>53</cell>
+                     <cell>15</cell>
+                     <cell>the same name or number</cell>
+                  </row>
+                  <row>
+                     <cell>53</cell>
+                     <cell>25</cell>
+                     <cell>⅓ part of a quarter.</cell>
+                  </row>
+                  <row>
+                     <cell>56</cell>
+                     <cell>1</cell>
+                     <cell>Altimetric</cell>
+                  </row>
+                  <row>
+                     <cell>56</cell>
+                     <cell>4</cell>
+                     <cell>Altimetric.</cell>
+                  </row>
+               </table>
+            </p>
+            <pb facs="tcp:169725:36"/>
+         </div>
+      </back>
+   </text>
+</TEI>
